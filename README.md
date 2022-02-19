@@ -1,2 +1,2 @@
-#this is django introduction project
+# this is django introduction project
 *do work simple*
