@@ -1,3 +1,4 @@
+![django](https://seeklogo.com/images/D/django-logo-E62F854B3C-seeklogo.com.png)
 # this is django introduction project
 
 *do work simple*
@@ -27,7 +28,7 @@ def show():
 python manage.py runserver
 ```
 
-![django](https://seeklogo.com/images/D/django-logo-E62F854B3C-seeklogo.com.png)
+
 
 
 
