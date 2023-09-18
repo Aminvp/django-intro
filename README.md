@@ -27,7 +27,7 @@ def show():
 python manage.py runserver
 ```
 
-
+![django](https://seeklogo.com/images/D/django-logo-E62F854B3C-seeklogo.com.png)
 
 
 
